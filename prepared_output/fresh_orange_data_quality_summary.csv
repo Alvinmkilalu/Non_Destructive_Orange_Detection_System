@@ -1,0 +1,10 @@
+metric,value
+Original rows,74
+Rows removed for missing/invalid values,0
+Rows removed for negative values,0
+Exact duplicate rows removed,5
+Rows after duplicate removal,69
+Rows flagged by IQR,5
+Rows flagged by robust z-score,2
+Strong outlier candidates,2
+Rows in conservative cleaned dataset,67
