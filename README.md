@@ -1,2 +1,5 @@
 # Non_Destructive_Orange_Detection_System
-Final Year Project to be able to tell whether the Orange is spoiled or not
+Content from your target repo...
+
+# Orange_Spoilage_Detector_System
+Content from the source repo...
